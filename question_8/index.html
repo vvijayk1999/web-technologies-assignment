@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Apply now for your dream job!</title>
+      <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+       <h1 align="center">AGOODCOMPANY</h1>
+      <form >
+         First name: <input type = "text" name = "first_name" />
+         <br>
+         Last name: <input type = "text" name = "last_name" />
+         <br>
+         Gender : <input type="radio" id="male" name="gender" value="male">
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label>
+            <input type="radio" id="other" name="gender" value="other">
+            <label for="other">Other</label>
+        <br>
+        Phone number: <input type = "number" name = "phone" />
+         Email-ID: <input type = "email" name = "email" />
+         <br>
+        <div id="job_role">
+            Job role: <br><input type="radio" id="front" name="job_role" value="male">
+            <label for="male">Frontend Web Developer</label><br>
+            <input type="radio" id="back" name="job_role" value="female">
+            <label for="female">Backend Web Developer</label><br>
+            <input type="radio" id="other" name="job_role" value="other">
+            <label for="other">Android Developer</label>
+        </div>
+         <br>
+         Qualification: <select>
+             <option value="btech">B.Tech</option>
+             <option value="be">B.E</option>
+             <option value="bca">BCA</option>
+             <option value="other">Other Engineering</option>
+         </select>
+         <br>
+         Univeristy: <input type = "text" name = "university" />
+         <br>
+         Year of passing: <input type="date" id="start" />
+         <br>
+         Marks obtained in percentage: <input type = "number" name = "marks" min="60" max="100" />
+         <br>
+         Experience: <input type = "text" name = "experience" />
+         <br>
+         Breif ypur experience : <textarea name="breif" rows="10" cols="30">
+            50 - 100 words about your past experience. 
+            </textarea>
+        <br>
+        <input id='submit'type="submit" value="Apply for the job"/>
+   </body>
+	
+</html>

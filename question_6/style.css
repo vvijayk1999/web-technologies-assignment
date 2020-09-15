@@ -1,0 +1,245 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #161625;
+}
+button {
+    background-color:rgba(77, 253, 77, 0%) ;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin-top: 15%;
+    cursor: pointer;
+    border: 2px solid white;
+}
+
+a ,ul{
+    color: seashell;
+    text-decoration: none;
+}
+button:hover{
+    color: #000;
+    background-color: white;
+}
+div.map {
+    position: relative;
+    display: inline-block;
+}
+
+div.jammu {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:8%; 
+    left:13%;
+}
+div.ladakh {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:6%; 
+    left:39%;
+}
+div.himachal {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:15%; 
+    left:30%;
+}
+div.punjab {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:18%; 
+    left:19%;
+}
+div.uttark {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:21%; 
+    left:35%;
+}
+div.haryana {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:25%; 
+    left:25%;
+}
+div.uttarp {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:30%; 
+    left:35%;
+}
+div.rajasthan {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:32%; 
+    left:12%;
+}
+div.bihar {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:35%; 
+    left:58%;
+}
+div.assam {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:33%; 
+    left:80%;
+}
+div.arunachal {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:25%; 
+    left:80%;
+}
+div.nagaland {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:32%; 
+    left:90%;
+}
+div.manipur {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:38%; 
+    left:90%;
+}
+div.mizoram {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:43%; 
+    left:87%;
+}
+div.tripura {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:43%; 
+    left:78%;
+}
+div.meghalaya {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:36%; 
+    left:75%;
+}
+div.westb {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:46%; 
+    left:65%;
+}
+div.jharkhand {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:42%; 
+    left:55%;
+}
+div.madhyap {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:42%; 
+    left:30%;
+}
+div.gujrat {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:45%; 
+    left:8%;
+}
+div.chatti {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:50%; 
+    left:43%;
+}
+div.odisha {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:53%; 
+    left:60%;
+}
+div.mahara {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:57%; 
+    left:20%;
+}
+div.talanga {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:60%; 
+    left:35%;
+}
+div.karnataka {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:75%; 
+    left:22%;
+}
+div.andra {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:70%; 
+    left:35%;
+}
+div.kerala {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:90%; 
+    left:22%;
+}
+div.tamilnadu {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:85%; 
+    left:30%;
+}
+div.goa {
+    font-size: 18px;
+    position: absolute;
+    color:white;
+    top:70%; 
+    left:15%;
+}
+div:hover{
+    font-size: 20px;
+}
+
+.map img {
+    display:block;
+    max-width: 100%; 
+}
+h3{
+    color: seashell;
+}

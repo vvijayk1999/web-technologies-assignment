@@ -1,0 +1,14 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    background-image: url('background.jpg');
+}
+a{
+    color: gold
+}
+P{
+    background-color: rgba(175, 175, 175, 0.3);
+}
+a:hover{
+    color: green;
+}

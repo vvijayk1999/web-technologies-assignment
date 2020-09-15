@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* color: aliceblue; */
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    background-color: rgba(0,0,0, 60%);
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    color: seashell;
+    padding: 15px;
+}
+input{
+    margin: 10px;
+}
+#submit{
+    background-color: #fff;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 15px;
+}
+#submit:hover{
+    background-color: #c5ff3c;
+}
+h1{
+    color: slateblue;
+    font-size: xx-large;
+    background-color: rgba(255, 255, 255,30%);
+}
+#job_role{
+    background-color: rgba(255, 255, 255, 30%);
+}
